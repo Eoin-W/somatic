@@ -2,6 +2,12 @@
 
 Code for "Testis somatic cell gene regulatory networks underlie dramatic feedback responses to the depletion of male germ cells"
 
+# Repository contents
+Whelan_Brinster_Somatic_Code2.R contains the R code used for processing, analysis, and visualization of the scRNA-seq and snMultiome data presented in the manuscript.  
+
+The script includes initial processing as well as downstream analyses used to generate manuscript results. Because of the size of the sequencing datasets, input data are not included in this repository. Raw and processed sequencing data are available from GSE309319.
+.
+
 # Abstract
 
 Mammalian germ line maintenance is mediated through crosstalk between germ cells and their somatic cell environment. We developed a mouse model with one fertile and one infertile testis within the same animal to compare gene expression and chromatin accessibility across fertility states. Sertoli cells and peritubular myoid cells displayed the greatest transcriptional and epigenetic differences in genes related to growth factors, extracellular matrix, and fibrosis. We identified transcription factors, target regions, and genes consistently altered between infertile and fertile testes. Key factors such as Sox9 in Sertoli cells were inferred to control downstream genes including Dhh. As validation, knockout of a predicted enhancer in the first intron of Dhh reduced its expression, whereas knockout of the full gene impaired spermatogenesis. Comparison of fertile and infertile human patients indicated conserved gene expression changes consistent with mouse. This work presents a comprehensive gene regulatory network analysis of somatic cells, providing a systematic map of growth factor regulation in the mammalian testis. 
