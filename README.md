@@ -3,10 +3,10 @@
 Code for "Testis somatic cell gene regulatory networks underlie dramatic feedback responses to the depletion of male germ cells"
 
 # Repository contents
-Whelan_Brinster_Somatic_Code2.R contains the R code used for processing, analysis, and visualization of the scRNA-seq and snMultiome data presented in the manuscript.  
+Whelan_Brinster_Somatic_Code.R contains the R code used for processing, analysis, and visualization of the scRNA-seq and snMultiome data presented in the manuscript.  
 
 The script includes initial processing as well as downstream analyses used to generate manuscript results. Because of the size of the sequencing datasets, input data are not included in this repository. Raw and processed sequencing data are available from GSE309319.
-.
+
 
 # Abstract
 
